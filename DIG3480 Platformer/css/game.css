@@ -1,0 +1,20 @@
+.background    { background-image: url("http://www.clipartkid.com/images/166/alayx-wallpaper-blue-sky-background-9L21cI-clipart.jpg"); 
+                 table-layout: fixed;
+				 border-spacing: 0; }
+.background td { padding: 0;        }
+.lava          { background-image: url("http://i297.photobucket.com/albums/mm222/komaokc/th_animatedlava2.gif"); }
+.wall          { background-image: url("http://cgright.com/texture/126_preview.jpg"); }
+.floater       { background: rgb(50, 0, 5); }
+
+.actor  { position: absolute;  }
+.coin   { background: rgb(241, 229, 89); }
+.player { background: rgb(64, 64, 64); }
+.tele   { background: rgb(8, 54, 203); 
+          background-image: url("http://www.gifs.net/Animation11/Science_and_Body/Physics/electricity.gif"); }
+
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
+  position: relative;
+}
